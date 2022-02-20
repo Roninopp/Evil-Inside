@@ -8,7 +8,7 @@
 DEMO BOT - [Evil-Inside](https://telegram.dog/Evil_Inside_robot)
  
 
-Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS Evil-Inside ⚡ i have both amazing modules
+Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS samurai⚡ i have both amazing modules
 
 <h3 align="center">ℂ𝕆ℕ𝕋𝔸ℂ𝕋 𝕄𝔼 𝕆ℕ<img align="center" src="https://github.com/PANDITHAN/PANDITHAN/blob/main/assets/Handshake.gif" height="33px" /></h3>
 <p align="center">
@@ -58,7 +58,7 @@ Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS Evil-Inside ⚡ i have both 
 
 # 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮
 <p align="center">
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT&template=hhttps://github.com/PANDITHAN/Evil-Inside"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Flegendx22%2FGRANDROBOT&template=hhttps://github.com/Roninopp/Evil-Inside"><img src="https://github.com/PR0FESS0R-99/Buttons/blob/Professor-99/heroku/herokudeploy-01.svg" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
 </p>
  
 # 𝐂𝐨𝐧𝐟𝐢𝐠 𝐕𝐚𝐫𝐬
