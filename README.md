@@ -86,7 +86,7 @@ Hello i am TELEGRAM GROUP MANAGEMENT BOT MY NAME IS samurai⚡ i have both amazi
 
 - `OWNER_ID` : Your user ID as an integer. from @MT_ID_Bot
 
-- `OWNER_NAME` Your username {`PANDITHAN`}
+- `OWNER_NAME` Your username {`DushmanXRonin`}
 
 - `PORT` : Port to use for your webhooks.
 
