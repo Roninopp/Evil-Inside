@@ -28,7 +28,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 
 PM_START_TEXT = """
-*𝙷𝚢 {} , 𝙼𝚢 𝙽𝚊𝚖𝚎 𝚒𝚜 {}!*
+*𝙷𝚢 {} , 𝙼𝚢 𝙽𝚊𝚖𝚎 𝚒𝚜 {evil bot}!*
 
 𝙸 𝚊𝚖 𝚊𝚗 *𝚂𝚄𝙿𝙴𝚁*  𝚐𝚛𝚘𝚞𝚙 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚋𝚘𝚝.
 
